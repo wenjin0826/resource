@@ -1,0 +1,6 @@
+1、解压安装dbeaver
+
+2、复制dbeaver-agent.jar到安装目录下
+
+3、修改安装目录中dbeaver.ini文件添加下面内容
+-javaagent:D:\Program\DBeaver\dbeaver-agent.jar
